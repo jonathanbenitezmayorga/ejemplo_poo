@@ -1,5 +1,5 @@
 # ejemplo_poo
-Claro, aquí te presento un ejemplo de Programación Orientada a Objetos (POO) en JavaScript utilizando una página web:
+
 
 ```javascript
 
